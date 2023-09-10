@@ -35,7 +35,7 @@
 
 ## 🔭更多……
 
-- 🚂Steam：[Nick-wald](https://steamcommunity.com/profiles/76561199022070980/)
+- 🚂Steam：[Nick-wald](https://steamcommunity.com/id/nickwald/)
 
 <!--
 **Nick-wald/Nick-wald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
