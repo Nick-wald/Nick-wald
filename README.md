@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.nickwald.top"><img src="logo.jpg" style="width: 30%" alt=""></a></p>
+
 <h1 align="center">Hi 👋, 这里是 Nick wald</h1>
 <h3 align="center">🌻 向阳生长，灿若花开 🌻</h3>
 
