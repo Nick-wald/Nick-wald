@@ -14,7 +14,7 @@
 📫联系方式：
 - 📧邮箱：nickwald@163.com
 - 🐧QQ：870585593
-- 📝Blog: [Nickwald的琐碎日常](www.nickwald.top)
+- 📝Blog: [Nickwald的琐碎日常](https://www.nickwald.top)
 
 💬语言：
 - 简体中文
