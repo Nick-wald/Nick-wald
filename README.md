@@ -21,6 +21,32 @@
 - 繁体中文
 - English
 
+## 技能树
+
+### 前端
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,cloudflare,css,html,js,jquery,vue,wordpress" />
+  </a>
+</p>
+
+### 后端
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,redis,php,mysql,nginx,nodejs,linux,django" />
+  </a>
+</p>
+
+### 其他
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,ps,pr,au,blender,c,cpp,java,py,docker,gamemakerstudio,git,github,gitlab,godot,idea,ai,md,matlab,unity,unreal,visualstudio,vscode,latex" />
+  </a>
+</p>
+
 ## 🌱正在学习
 
 - Godot/GDScript
